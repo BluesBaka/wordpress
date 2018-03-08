@@ -18,7 +18,7 @@ get_header(); ?>
 				<div class="social-btns">  <!-- populate or remove as many of these as you want -->
 					<a href="https://twitter.com/bluesbaka" class="soc-icon tw"></a>
 					<a href="https://facebook.com/badunnells" class="soc-icon fb"></a>
-					<a href="https://linkedin.com/brynadunnells" class="soc-icon ln"></a>
+					<a href="https://linkedin.com/in/brynadunnells" class="soc-icon ln"></a>
 					<a href="https://github.com/bluesbaka" class="soc-icon gh"></a>
 					<a href="https://instagram.com/adventureswithbryn" class="soc-icon in"></a>
 				</div>
