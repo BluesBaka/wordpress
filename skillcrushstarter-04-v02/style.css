@@ -745,3 +745,17 @@ body {
 	float: right;
 }
 /* End SINGLE POST STYLES */
+/* PAGE STYLES and CUSTOM TEMPLATE STYLES*/
+.page .entry-title {
+    font-weight: 500;
+    text-align: center;
+    border-bottom: 0.07em solid #45ac9d;
+    padding-bottom: .5em;
+}
+.page-template-full-width .page-header {
+    border-bottom: none;
+}
+.page-template-full-width .entry-title {
+    font-size: 2.5em;
+}
+/* End PAGE STYLES */
